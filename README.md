@@ -1,6 +1,9 @@
 # web-frontend-awesome
 web前端实用集锦导航   
 
+### 前端编码规范   
+[javascript ES6](https://github.com/airbnb/javascript) | [javascript ES5](https://github.com/airbnb/javascript/tree/master/es5) | [css](https://github.com/airbnb/css) | [react](https://github.com/airbnb/javascript/tree/master/react) 
+
 ### js库   
 [jQuery](https://facebook.github.io/react/) | [zepto](http://zeptojs.com) | [mootools](http://mootools.net/) 
 

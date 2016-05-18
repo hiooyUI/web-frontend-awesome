@@ -20,7 +20,7 @@ web前端实用集锦导航
 [less.js](http://lesscss.org/) | [sass](http://sass-lang.com) | [stylus](http://stylus-lang.com/)   
 
 ### 轮播插件   
-[swiper](http://idangero.us/swiper/) | [slidesjs](http://www.slidesjs.com/) | [Swipe](https://github.com/thebird/Swipe) | [jQuery Cycle Plugin](http://jquery.malsup.com/cycle/) | [Nivo-Slider](http://dev7studios.com/plugins/nivo-slider) | [OwlCarousel](https://github.com/OwlFonk/OwlCarousel)   <!-- more -->
+[swiper](http://idangero.us/swiper/) | [slidesjs](http://www.slidesjs.com/) | [Swipe](https://github.com/thebird/Swipe) | [jQuery Cycle Plugin](http://jquery.malsup.com/cycle/) | [Nivo-Slider](http://dev7studios.com/plugins/nivo-slider) | [OwlCarousel](https://github.com/OwlFonk/OwlCarousel)   
 
 [reveal.js](http://lab.hakim.se/reveal-js/) | [fullPage.js](http://alvarotrigo.com/fullPage/) | [impress.js](http://impress.github.io/impress.js)   
 

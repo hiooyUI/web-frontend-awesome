@@ -11,7 +11,7 @@ web前端实用集锦导航
 [react](https://jquery.com/) | [angular.js](http://angularjs.org) | [backbone](http://backbonejs.org) | [vue](http://vuejs.org)   
 
 ### js模块加载器   
-[requirejs](http://requirejs.org/) | [seajs](http://seajs.org/) | [mootools](http://mootools.net/) 
+[requirejs](http://requirejs.org/) | [seajs](http://seajs.org/) 
 
 ### 前端构建工具/包管理工具/打包工具   
 [grunt](http://gruntjs.com/) | [gulp](http://gulpjs.com) | [bower](http://bower.io) - package manager | [webpack](https://webpack.github.io) - a bundler for modules    

@@ -3,6 +3,15 @@ web前端实用集锦导航
 
 ### 前端编码规范   
 [javascript ES6](https://github.com/airbnb/javascript) | [javascript ES5](https://github.com/airbnb/javascript/tree/master/es5) | [css](https://github.com/airbnb/css) | [react](https://github.com/airbnb/javascript/tree/master/react) 
+   
+[CamelCase](https://en.wikipedia.org/wiki/CamelCase) | [PascalCase](https://en.wikipedia.org/wiki/PascalCase) | [Hungarian notation](https://en.wikipedia.org/wiki/Hungarian_notation)   
+   
+[OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/) | [BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)   
+   
+[CommonJS/CMD](http://www.commonjs.org/specs/modules/1.0/) | [Asynchronous module definition/AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)   
+   
+[FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
+   
 
 ### js库   
 [jQuery](https://facebook.github.io/react/) | [zepto](http://zeptojs.com) | [mootools](http://mootools.net/) 

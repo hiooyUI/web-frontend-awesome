@@ -33,6 +33,12 @@ web前端实用集锦导航
 
 [reveal.js](http://lab.hakim.se/reveal-js/) | [fullPage.js](http://alvarotrigo.com/fullPage/) | [impress.js](http://impress.github.io/impress.js)   
 
+### 瀑布流布局   
+[masonry](http://masonry.desandro.com) | [duitang/waterfall](https://github.com/duitang/waterfall)   
+
+### 图片懒加载   
+[lazyload](https://github.com/tuupola/jquery_lazyload) | [echo](https://github.com/toddmotto/echo)   
+
 ### UI库   
 [Bootstrap](http://getbootstrap.com/) | [Framework7](http://framework7.io/) | [SUI Mobile](http://m.sui.taobao.org/) | [WeUI](https://weui.io/) | [jQuery WeUI](https://lihongxun945.github.io/jquery-weui/) | [bootstrap-material-design](http://fezvrasta.github.io/bootstrap-material-design/) | [Material Design Lite](https://getmdl.io/) | [Materialize](http://materializecss.com) | [SUI](http://sui.taobao.org/sui/docs/) | [Amaze UI](http://amazeui.org/) | [AdminLTE](https://almsaeedstudio.com/) | [foundation-sites](http://foundation.zurb.com) | [ant-design](http://ant.design) | [Semantic-UI](http://www.semantic-ui.com) | [primer](http://primercss.io) | [jquery-ui](https://jqueryui.com/) | [jquery-ui-bootstrap](http://jquery-ui-bootstrap.github.io/jquery-ui-bootstrap/) | [bulma](http://bulma.io) | [milligram](http://milligram.github.io) | [Mint UI](http://mint-ui.github.io/#!/zh-cn) | [VueStrap](http://yuche.github.io/vue-strap/)    
 

@@ -51,7 +51,7 @@ web前端实用集锦导航
 [animate.css](http://daneden.github.io/animate.css) | [css-loaders](http://projects.lukehaas.me/css-loaders/) | [hamburgers](https://jonsuh.com/hamburgers) | [Hover.css](http://ianlunn.github.io/Hover/) | [animateplus](https://github.com/bendc/animateplus) | [hint.css](http://kushagragour.in/lab/hint/)   
 
 ### 媒体播放（Html5 / flash） 
-[videojs/video.js](http://videojs.com/) | [Selz/plyr](https://plyr.io/) | [Bilibili/flv.js](https://github.com/Bilibili/flv.js)   
+[videojs/video.js](http://videojs.com/) | [Selz/plyr](https://plyr.io/) | [Bilibili/flv.js](https://github.com/Bilibili/flv.js) | [mediaelement](http://mediaelementjs.com/)   
 
 ### Html5 游戏制作 / 3D引擎   
 [phaser](http://www.phaser.io/) | [Three.js](https://threejs.org/) | [Egret](http://www.egret.com/) | [Cocos2d](http://www.cocos.com/) | [Createjs](http://createjs.com/) | [Pixi.js](http://www.pixijs.com/)   

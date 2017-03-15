@@ -72,7 +72,7 @@ web前端实用集锦导航
 [simple-switch](https://github.com/hiooyUI/simple-switch) | [switchery](http://abpetkov.github.io/switchery/) | [bootstrap-switch](http://www.bootstrap-switch.org/) | [jquery-validation](http://jqueryvalidation.org/) | [icheck](http://fronteed.com/iCheck) | [Parsley.js](http://parsleyjs.org) - JavaScript form validation   
 
 ### 进度条/可调进度条   
-[bootstrap-slider](http://seiyria.com/bootstrap-slider/) | [progressbar.js](https://kimmobrunfeldt.github.io/progressbar.js) | [pace](https://github.com/HubSpot/pace)   
+[bootstrap-slider](http://seiyria.com/bootstrap-slider/) | [progressbar.js](https://kimmobrunfeldt.github.io/progressbar.js) | [pace](https://github.com/HubSpot/pace)     
 
 ### 上传文件插件
 [jQuery-File-Upload](https://blueimp.github.io/jQuery-File-Upload/) | [fine-uploader](http://fineuploader.com) | [plupload](http://www.plupload.com/)   
@@ -82,3 +82,6 @@ web前端实用集锦导航
 
 ### html模版引擎   
 [artTemplate](https://github.com/aui/artTemplate) | [BaiduTemplate](http://baidufe.github.com/BaiduTemplate/) | [mustache.js](http://mustache.github.com/) | [Underscore Templates](http://underscorejs.org/#template)   
+
+### 其他
+[复制到剪切板 clipboard.js](https://clipboardjs.com) | [消除移动端页面上的点击事件的300毫秒延时 fastclick](https://github.com/ftlabs/fastclick) 

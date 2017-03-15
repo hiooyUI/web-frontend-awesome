@@ -2,7 +2,7 @@
 web前端实用集锦导航   
 
 ### 前端编码规范   
-[javascript ES6](https://github.com/airbnb/javascript) | [javascript ES5](https://github.com/airbnb/javascript/tree/master/es5) | [css](https://github.com/airbnb/css) | [react](https://github.com/airbnb/javascript/tree/master/react) 
+[javascript ES6](https://github.com/airbnb/javascript) | [javascript ES5](https://github.com/airbnb/javascript/tree/master/es5) | [Learn ES2015](https://babeljs.io/learn-es2015/) | [css](https://github.com/airbnb/css) | [react](https://github.com/airbnb/javascript/tree/master/react) 
    
 [CamelCase](https://en.wikipedia.org/wiki/CamelCase) | [PascalCase](https://en.wikipedia.org/wiki/PascalCase) | [Hungarian notation](https://en.wikipedia.org/wiki/Hungarian_notation)   
    

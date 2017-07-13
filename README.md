@@ -16,9 +16,9 @@ web前端实用集锦导航
 ### Libraries (js库)   
 [jQuery](https://facebook.github.io/react/) | [zepto](http://zeptojs.com) | [mootools](http://mootools.net/) 
 
-### MV* & SPA (js前端MV*框架、单页面程序及相关)   
+### MV+ & SPA (js前端MV+框架、单页面程序及相关)   
 [react](https://jquery.com/) | [vue.js](http://vuejs.org) | [react-native](https://github.com/facebook/react-native) | [angular.js](http://angularjs.org) | [backbone](http://backbonejs.org)   
-[Awesome-vue](https://github.com/vuejs/awesome-vue) | [Awesome-react](https://github.com/enaqx/awesome-react) | [Redux](https://github.com/reactjs/redux) | [Flux](https://github.com/facebook/flux) | [Angular-styleguide](https://github.com/johnpapa/angular-styleguide) | [Backbone.marionette](https://github.com/marionettejs/backbone.marionette) | [Backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals)   
+[Awesome-vue](https://github.com/vuejs/awesome-vue) | [Awesome-react](https://github.com/enaqx/awesome-react) | [Redux](https://github.com/reactjs/redux) | [Flux](https://github.com/facebook/flux) | [Angular-styleguide](https://github.com/johnpapa/angular-styleguide) | [Backbone.marionette](https://github.com/marionettejs/backbone.marionette) | [Backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals) | [Redux 中文文档](http://cn.redux.js.org/index.html)    
 
 ### Module Loaders (js模块加载器)   
 [requirejs](http://requirejs.org/) | [seajs](http://seajs.org/) 

@@ -74,7 +74,7 @@ web前端实用集锦导航
 [simple-switch](https://github.com/hiooyUI/simple-switch) | [switchery](http://abpetkov.github.io/switchery/) | [bootstrap-switch](http://www.bootstrap-switch.org/) | [jquery-validation](http://jqueryvalidation.org/) | [icheck](http://fronteed.com/iCheck) | [Parsley.js](http://parsleyjs.org) - JavaScript form validation   
 
 ### Progress Bar (进度条/可调进度条)   
-[bootstrap-slider](http://seiyria.com/bootstrap-slider/) | [progressbar.js](https://kimmobrunfeldt.github.io/progressbar.js) | [pace](https://github.com/HubSpot/pace)   
+[bootstrap-slider](http://seiyria.com/bootstrap-slider/) | [progressbar.js](https://kimmobrunfeldt.github.io/progressbar.js) | [pace](https://github.com/HubSpot/pace) | [nprogress](http://ricostacruz.com/nprogress/)   
 
 ### File Uploader (上传文件插件)
 [jQuery-File-Upload](https://blueimp.github.io/jQuery-File-Upload/) | [fine-uploader](http://fineuploader.com) | [plupload](http://www.plupload.com/)   

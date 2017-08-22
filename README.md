@@ -27,7 +27,7 @@ web前端实用集锦导航
 [requirejs](http://requirejs.org/) | [seajs](http://seajs.org/) 
 
 ### Bundle & Build 前端构建工具/包管理工具/打包工具   
-[grunt](http://gruntjs.com/) | [gulp](http://gulpjs.com) | [bower](http://bower.io) - package manager | [webpack](https://webpack.github.io) - a bundler for modules | [browserify](http://browserify.org/)    
+[yarn - a dependency management](https://yarnpkg.com/) | [npm - a package manager for javascript](http://www.npmjs.com/) | [grunt](http://gruntjs.com/) | [gulp](http://gulpjs.com) | [bower](http://bower.io) - package manager | [webpack](https://webpack.github.io) - a bundler for modules | [browserify](http://browserify.org/)    
 <!-- more -->
 ### Style Preproccessing (样式预处理工具)   
 [less.js](http://lesscss.org/) | [sass](http://sass-lang.com) | [stylus](http://stylus-lang.com/)   

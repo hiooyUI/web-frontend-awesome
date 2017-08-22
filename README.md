@@ -2,7 +2,7 @@
 web前端实用集锦导航   
 
 ### Code Standards (前端编码规范)   
-[javascript ES6](https://github.com/airbnb/javascript) | [javascript ES5](https://github.com/airbnb/javascript/tree/master/es5) | [Learn ES2015](https://babeljs.io/learn-es2015/) | [css](https://github.com/airbnb/css) | [react](https://github.com/airbnb/javascript/tree/master/react) | [FP (Functional Programming in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide) | [WAI-ARIA roles](https://www.w3.org/TR/wai-aria/roles#role_definitions)    
+[javascript ES6](https://github.com/airbnb/javascript) | [javascript ES5](https://github.com/airbnb/javascript/tree/master/es5) | [Learn ES2015](https://babeljs.io/learn-es2015/) | [css](https://github.com/airbnb/css) | [react](https://github.com/airbnb/javascript/tree/master/react) | [FP (Functional Programming in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)    
    
 [CamelCase](https://en.wikipedia.org/wiki/CamelCase) | [PascalCase](https://en.wikipedia.org/wiki/PascalCase) | [Hungarian notation](https://en.wikipedia.org/wiki/Hungarian_notation)   
    
@@ -10,7 +10,9 @@ web前端实用集锦导航
    
 [CommonJS/CMD](http://www.commonjs.org/specs/modules/1.0/) | [Asynchronous module definition/AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)   
    
-[FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
+[FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)   
+   
+[WAI-ARIA roles](https://www.w3.org/TR/wai-aria/roles#role_definitions)
    
 
 ### Libraries (js库)   

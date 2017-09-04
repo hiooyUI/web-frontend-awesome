@@ -16,7 +16,7 @@ web前端实用集锦导航
    
 
 ### Libraries (js库)   
-[jQuery](https://facebook.github.io/react/) | [zepto](http://zeptojs.com) | [immutable-js](http://facebook.github.io/immutable-js/) | [underscore](http://underscorejs.org/) | [lodash](https://lodash.com/)| [mootools](http://mootools.net/)  
+[jQuery](https://facebook.github.io/react/) | [zepto](http://zeptojs.com) | [immutable-js](http://facebook.github.io/immutable-js/) | [underscore](http://underscorejs.org/) | [lodash](https://lodash.com/) | [mootools](http://mootools.net/)  
 
 ### MV+ & SPA (js前端MV+框架、单页面程序及相关)   
 [react](https://jquery.com/) | [vue.js](http://vuejs.org) | [react-native](https://github.com/facebook/react-native) | [angular.js](http://angularjs.org) | [backbone](http://backbonejs.org)   

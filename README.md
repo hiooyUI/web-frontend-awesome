@@ -87,5 +87,8 @@ web前端实用集锦导航
 ### Templates (html模版引擎)   
 [artTemplate](https://github.com/aui/artTemplate) | [BaiduTemplate](http://baidufe.github.com/BaiduTemplate/) | [mustache.js](http://mustache.github.com/) | [Underscore Templates](http://underscorejs.org/#template)   
 
+### Icon Font (图标字体)   
+[Font Awesome](http://fontawesome.io/) | [iconfont](http://www.iconfont.cn/)   
+
 ### Others (其他)
 [复制到剪切板 clipboard.js](https://clipboardjs.com) | [消除移动端页面上的点击事件的300毫秒延时 fastclick](https://github.com/ftlabs/fastclick) 

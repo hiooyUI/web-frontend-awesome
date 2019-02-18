@@ -66,6 +66,8 @@ web前端实用集锦导航
 ### Charts (图库插件)   
 [Highcharts](http://www.highcharts.com) | [echarts](https://github.com/ecomfe/echarts) | [Chart.js](http://www.chartjs.org/) | [d3](https://d3js.org) | [morris.js](http://morrisjs.github.com/morris.js/) | [c3](http://c3js.org)   
 
+[有漂亮的Gauges图 apexcharts.js](https://github.com/apexcharts/apexcharts.js)
+
 ### Time (时间库/插件)   
 [moment](http://momentjs.com) | [bootstrap-datepicker](https://eternicode.github.io/bootstrap-datepicker/) | [fullcalendar](http://fullcalendar.io) | [Pikaday](http://dbushell.github.io/Pikaday/)   
 

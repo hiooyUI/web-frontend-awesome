@@ -61,7 +61,7 @@ web前端实用集锦导航
 [phaser](http://www.phaser.io/) | [Three.js](https://threejs.org/) | [Egret](http://www.egret.com/) | [Cocos2d](http://www.cocos.com/) | [Createjs](http://createjs.com/) | [Pixi.js](http://www.pixijs.com/)   
 
 ### Dialog (对话框/提示框插件)   
-[artDialog](http://aui.github.com/artDialog/) | [jQuery.sDialog](https://github.com/hiooyUI/jQuery.sDialog) | [sweetalert](http://t4t5.github.io/sweetalert/) | [noty](https://github.com/needim/noty) | [layer](http://layer.layui.com/)   
+[artDialog](http://aui.github.com/artDialog/) | [jQuery.sDialog](https://github.com/hiooyUI/jQuery.sDialog) | [sweetalert](http://t4t5.github.io/sweetalert/) | [noty](https://github.com/needim/noty) | [layer](http://layer.layui.com/) | [jQuery.showLoading](https://github.com/hiooyUI/jQuery.showLoading)  
 
 ### Charts (图库插件)   
 [Highcharts](http://www.highcharts.com) | [echarts](https://github.com/ecomfe/echarts) | [Chart.js](http://www.chartjs.org/) | [d3](https://d3js.org) | [morris.js](http://morrisjs.github.com/morris.js/) | [c3](http://c3js.org)   
